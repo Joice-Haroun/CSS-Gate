@@ -32,5 +32,20 @@ section{
     background-size: cover;
     background-position: center;
 }
+.content{
+    position: absolute;
+    left: 80px;
+    bottom: 120px;
+    max-width: 600px;
+}
+.content h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
 
-
+.content p{
+    font-size: 18px;
+    margin-bottom: 25px;
+    line-height: 1.5;
+}
