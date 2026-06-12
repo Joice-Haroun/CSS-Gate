@@ -15,16 +15,22 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: padding 25px 60px ;
+    padding: 25px 60px ;
 }
 section{
     height: 100vh;
     position: relative;
 }
 .sec-three{
-background-image: url(media/Revolutionizing_Space.jpeg);
+    background-image: url("media/Revolutionizing_Space.jpeg");
+    background-size: cover;
+    background-position: center;
 }
+
 .sec-five{
-    background-image: url(media/Advancing_Human.jpeg);
+    background-image: url("media/Advancing_Human.jpeg");
+    background-size: cover;
+    background-position: center;
 }
+
 
