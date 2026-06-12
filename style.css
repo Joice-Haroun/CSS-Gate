@@ -21,4 +21,10 @@ section{
     height: 100vh;
     position: relative;
 }
+.sec-three{
+background-image: url(media/Revolutionizing_Space.jpeg);
+}
+.sec-five{
+    background-image: url(media/Advancing_Human.jpeg);
+}
 
