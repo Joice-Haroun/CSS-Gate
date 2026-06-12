@@ -5,8 +5,9 @@
 }
 body{
     font-family: Arial, Verdana, sans-serif;
-    font: 16px / 26px ;
-    font font-weight: 400;
+    font-size: 16px;
+    line-height: 26px ;
+    font-weight: 400;
     background-color: black;
     color: white;
 }
