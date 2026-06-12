@@ -63,4 +63,19 @@ button:hover{
     background: white;
     color: black;
 }
-
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+footer img{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
