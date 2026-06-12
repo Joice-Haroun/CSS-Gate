@@ -117,3 +117,10 @@ footer img{
     height: 100vh;
     overflow: hidden;
 }
+.sec-three .content,
+.sec-five .content{
+    left: auto;
+    right: 60px;
+    text-align: left;
+    justify-content: right;
+}
